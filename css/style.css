@@ -6,6 +6,10 @@
     background-color: rgb(14, 20, 27);
 }
 
+.fes-spacing {
+    margin: 5% 5% 5% 5%;
+}
+
 .fes-nav {
     color: rgb(177, 187, 203);
     font-size: 17px;
@@ -22,6 +26,10 @@
     color: #ffffff;
     font-size: 25px;
     font-weight: 400;
+}
+
+.fes-content p {
+    width: 470px;
 }
 .fes-content-header {
     font-size: 25px;
