@@ -1,0 +1,38 @@
+.fes-body {
+    font-family: 'Franklin Gothic Medium';
+    background-image: url(../static/image/background.jpg);
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-color: rgb(14, 20, 27);
+}
+
+.fes-nav {
+    color: rgb(177, 187, 203);
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20.4px;
+}
+
+.fes-content {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 400;
+}
+.fes-content-header {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.fes-content-text {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15.6px;
+}
+
+.fes-footer {
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.4px;
+}
